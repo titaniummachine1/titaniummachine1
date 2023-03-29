@@ -1,10 +1,10 @@
 <p align="center">
-    Beginner Software Developer
+      Beginner Software Developer
+    
   <img src=https://github-readme-stats.vercel.app/api?username=titaniummachine1&theme=radical>
   <br/>
-![](https://komarev.com/ghpvc/?username=titaniummachine1&style=flat-square)
 </p>
-
+![](https://komarev.com/ghpvc/?username=titaniummachine1&style=flat-square)
 
 <!--
 **titaniummachine1/titaniummachine1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
