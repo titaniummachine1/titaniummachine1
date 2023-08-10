@@ -6,6 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=titaniummachine1&style=flat-square" alt="Profile Views">
 </p>
 
+contact me: 
+https://t.me/TerminatorMachine
 
 <!--
 **titaniummachine1/titaniummachine1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
