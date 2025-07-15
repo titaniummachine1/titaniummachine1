@@ -15,9 +15,9 @@
 ### 🧠 Cool Stuff I've Built
 - 🚀 **Navmesh Stitcher** — directional edge-based area stitching using 1D traversal; avoids 2D grid overhead while ensuring clean area pairing.
 - 📊 **Profiler Library** — real-time memory & time profiling for Lua-based tools, especially useful under heavy simulation loads.
-- 🎯 **Cheat Detection Engine** — confidence-weighted system with evidence decay, SteamID64 indexing, and automatic local database syncing.
+- 🎯 **Cheat Detection Engine(wip)** — confidence-weighted system with evidence decay, SteamID64 indexing, and automatic local database syncing.
 - 💥 **Projectile Aimbot (WIP)** — early-stage predictive targeting system for TF2 projectiles using physics-based arc compensation and velocity tracking.
-- 🥊 **Swing Prediction (Advanced Melee Aimbot)** — near-perfect real-time melee prediction with swing arcs, desync handling, and adaptive target offsetting (instant swing & chest detection in progress).
+- 🥊 **Swing Prediction (Advanced Melee Aimbot)** — near-perfect real-time melee prediction with swing arcs, desync handling, and adaptive target offsetting (instant swing in progress).
 
 ---
 
