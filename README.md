@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Advanced Software Developer</b>
+  <b>Self-taught Intermediate Software Dev</b>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=titaniummachine1&theme=radical">
   <br><br>
