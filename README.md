@@ -10,10 +10,11 @@ contact me:
 https://t.me/TerminatorMachine
 https://discord.gg/2hdmJHe7
 
-<!--
-**titaniummachine1/titaniummachine1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Cool Stuff I've Built
 - 🚀 Navmesh Stitcher — directional edge-based stitching with 1D traversal.
 - 📊 Profiler Library — real-time memory + time analysis in Lua.
 - 🎯 Cheat detection with weighted evidence decay and SteamID indexing.
+
+<!--
+**titaniummachine1/titaniummachine1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
