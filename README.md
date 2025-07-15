@@ -8,6 +8,7 @@
 
 contact me: 
 https://t.me/TerminatorMachine
+https://discord.gg/2hdmJHe7
 
 <!--
 **titaniummachine1/titaniummachine1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
