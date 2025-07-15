@@ -8,7 +8,7 @@
 
 ### Contact Me
 - 📬 [Telegram](https://t.me/TerminatorMachine)  
-- 🗨️ [Discord Server](https://discord.gg/2hdmJHe7)
+- 🗨️ [Discord](https://discord.gg/2hdmJHe7)
 
 ---
 
